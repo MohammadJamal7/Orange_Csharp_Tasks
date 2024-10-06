@@ -1,0 +1,7 @@
+C:\Users\mj266\source\repos\Topics3&4\Topics3&4\bin\Debug\Topics3&4.exe.config
+C:\Users\mj266\source\repos\Topics3&4\Topics3&4\bin\Debug\Topics3&4.exe
+C:\Users\mj266\source\repos\Topics3&4\Topics3&4\bin\Debug\Topics3&4.pdb
+C:\Users\mj266\source\repos\Topics3&4\Topics3&4\obj\Debug\Topics3&4.csproj.AssemblyReference.cache
+C:\Users\mj266\source\repos\Topics3&4\Topics3&4\obj\Debug\Topics3&4.csproj.CoreCompileInputs.cache
+C:\Users\mj266\source\repos\Topics3&4\Topics3&4\obj\Debug\Topics3&4.exe
+C:\Users\mj266\source\repos\Topics3&4\Topics3&4\obj\Debug\Topics3&4.pdb

@@ -1,0 +1,7 @@
+C:\Users\mj266\Desktop\Projects\C# projects\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\mj266\Desktop\Projects\C# projects\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\mj266\Desktop\Projects\C# projects\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\mj266\Desktop\Projects\C# projects\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\mj266\Desktop\Projects\C# projects\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\mj266\Desktop\Projects\C# projects\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\mj266\Desktop\Projects\C# projects\Task1\Task1\obj\Debug\Task1.pdb
