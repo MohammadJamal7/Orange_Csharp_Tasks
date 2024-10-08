@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\Task7_OOP1\Task7_OOP1\bin\Debug\Task7_OOP1.exe.config
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\Task7_OOP1\Task7_OOP1\bin\Debug\Task7_OOP1.exe
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\Task7_OOP1\Task7_OOP1\bin\Debug\Task7_OOP1.pdb
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\Task7_OOP1\Task7_OOP1\obj\Debug\Task7_OOP1.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\Task7_OOP1\Task7_OOP1\obj\Debug\Task7_OOP1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\Task7_OOP1\Task7_OOP1\obj\Debug\Task7_OOP1.exe
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\Task7_OOP1\Task7_OOP1\obj\Debug\Task7_OOP1.pdb

@@ -1,7 +1,0 @@
-C:\Users\mj266\Desktop\Orange_Csharp_Tasks\OOP\OOP\bin\Debug\OOP.exe.config
-C:\Users\mj266\Desktop\Orange_Csharp_Tasks\OOP\OOP\bin\Debug\OOP.exe
-C:\Users\mj266\Desktop\Orange_Csharp_Tasks\OOP\OOP\bin\Debug\OOP.pdb
-C:\Users\mj266\Desktop\Orange_Csharp_Tasks\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
-C:\Users\mj266\Desktop\Orange_Csharp_Tasks\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
-C:\Users\mj266\Desktop\Orange_Csharp_Tasks\OOP\OOP\obj\Debug\OOP.exe
-C:\Users\mj266\Desktop\Orange_Csharp_Tasks\OOP\OOP\obj\Debug\OOP.pdb

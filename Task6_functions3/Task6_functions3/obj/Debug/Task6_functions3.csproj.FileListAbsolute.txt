@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\Task6_functions3\Task6_functions3\bin\Debug\Task6_functions3.exe.config
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\Task6_functions3\Task6_functions3\bin\Debug\Task6_functions3.exe
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\Task6_functions3\Task6_functions3\bin\Debug\Task6_functions3.pdb
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\Task6_functions3\Task6_functions3\obj\Debug\Task6_functions3.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\Task6_functions3\Task6_functions3\obj\Debug\Task6_functions3.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\Task6_functions3\Task6_functions3\obj\Debug\Task6_functions3.exe
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\Task6_functions3\Task6_functions3\obj\Debug\Task6_functions3.pdb
