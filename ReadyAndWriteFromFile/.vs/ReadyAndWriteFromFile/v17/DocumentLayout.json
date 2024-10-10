@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\OrangeProjs\\Orange_Csharp_Tasks\\ReadyAndWriteFromFile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA095B75-C29F-4ED0-A854-60F2F20468B0}|ReadyAndWriteFromFile\\ReadyAndWriteFromFile.csproj|c:\\users\\pc\\desktop\\orangeprojs\\orange_csharp_tasks\\readyandwritefromfile\\readyandwritefromfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA095B75-C29F-4ED0-A854-60F2F20468B0}|ReadyAndWriteFromFile\\ReadyAndWriteFromFile.csproj|solutionrelative:readyandwritefromfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\OrangeProjs\\Orange_Csharp_Tasks\\ReadyAndWriteFromFile\\ReadyAndWriteFromFile\\Program.cs",
+              "RelativeDocumentMoniker": "ReadyAndWriteFromFile\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\OrangeProjs\\Orange_Csharp_Tasks\\ReadyAndWriteFromFile\\ReadyAndWriteFromFile\\Program.cs",
+              "RelativeToolTip": "ReadyAndWriteFromFile\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:48:49.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

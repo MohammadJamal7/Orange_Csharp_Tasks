@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\ReadyAndWriteFromFile\ReadyAndWriteFromFile\bin\Debug\ReadyAndWriteFromFile.exe.config
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\ReadyAndWriteFromFile\ReadyAndWriteFromFile\bin\Debug\ReadyAndWriteFromFile.exe
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\ReadyAndWriteFromFile\ReadyAndWriteFromFile\bin\Debug\ReadyAndWriteFromFile.pdb
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\ReadyAndWriteFromFile\ReadyAndWriteFromFile\obj\Debug\Task9_ReadyAndWriteFromFile.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\ReadyAndWriteFromFile\ReadyAndWriteFromFile\obj\Debug\Task9_ReadyAndWriteFromFile.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\ReadyAndWriteFromFile\ReadyAndWriteFromFile\obj\Debug\ReadyAndWriteFromFile.exe
+C:\Users\pc\Desktop\OrangeProjs\Orange_Csharp_Tasks\ReadyAndWriteFromFile\ReadyAndWriteFromFile\obj\Debug\ReadyAndWriteFromFile.pdb
